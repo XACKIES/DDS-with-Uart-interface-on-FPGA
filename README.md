@@ -1,5 +1,5 @@
 # DDS-with-Uart-interface-on-FPGA
-create by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year Engineering student)
+created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year Engineering student)
 ### Specification 
 - Sine_Wave_LUT      : 256  (But you can customize it to your project using this code. [Sinewave_LUT](https://github.com/XACKIES/DDS-with-Uart-interface/blob/main/Sinewave_LUT.py))
 
