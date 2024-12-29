@@ -7,6 +7,10 @@ create by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year E
 
 - Frequency Max.(Hz)    : 62.5 MHz@Nyquist frequency  (My system_clock is 125 MHz )
 
+- No. LUT : 108
+
+- No.Filp Flop : 95
+
 
 ### Formula
 $$
