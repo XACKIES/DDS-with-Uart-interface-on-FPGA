@@ -17,6 +17,8 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 
 
 ### Formula
+
+
 $$
 F_{out} = \frac{F_{freq_ctrl} \times F_{clk}}{2^{N}}
 $$
